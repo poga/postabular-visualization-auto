@@ -1,0 +1,19 @@
+{
+  "name": "postabular-visualization-auto",
+  "version": "0.0.1",
+  "description": "guessing the distribution of column and generate visualization based on guessed hints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "postabular-plugin"
+  ],
+  "author": "Poga Po",
+  "license": "MIT",
+  "dependencies": {
+    "blueimp-tmpl": "^3.3.0",
+    "chart.js": "^1.0.2",
+    "postabular": "0.0.8"
+  }
+}
